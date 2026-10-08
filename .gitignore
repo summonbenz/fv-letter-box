@@ -1,5 +1,6 @@
 .svelte-kit
 .vercel
+.netlify
 node_modules
 build
 dist
