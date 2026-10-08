@@ -35,10 +35,23 @@
 </script>
 
 <svelte:head>
-  <title>ส่งคำถาม — ถามได้เลย</title>
+  <title>FleurVive's Letter Box</title>
   <meta
     name="description"
-    content="ฝากคำถามถึงวิทยากรได้เลย จะใส่ชื่อหรือส่งแบบนิรนามก็ได้"
+    content="เขียนจดหมายถึง FleurVive ฝากคำถาม คำบอกรัก หรือข้อความถึงเมมเบอร์ได้ จะใส่ชื่อหรือส่งแบบนิรนามก็ได้"
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="FleurVive's Letter Box" />
+  <meta property="og:title" content="FleurVive's Letter Box" />
+  <meta
+    property="og:description"
+    content="เขียนจดหมายถึง FleurVive ฝากคำถาม คำบอกรัก หรือข้อความถึงเมมเบอร์ได้ จะใส่ชื่อหรือส่งแบบนิรนามก็ได้"
+  />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="FleurVive's Letter Box" />
+  <meta
+    name="twitter:description"
+    content="เขียนจดหมายถึง FleurVive ฝากคำถาม คำบอกรัก หรือข้อความถึงเมมเบอร์ได้ จะใส่ชื่อหรือส่งแบบนิรนามก็ได้"
   />
 </svelte:head>
 

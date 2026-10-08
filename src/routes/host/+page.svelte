@@ -142,7 +142,7 @@
 </script>
 
 <svelte:head>
-  <title>หน้าผู้ดำเนินรายการ — ถามได้เลย</title>
+  <title>FleurVive's Letter Box — Staff</title>
   <meta name="robots" content="noindex, nofollow" />
 </svelte:head>
 
